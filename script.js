@@ -1,6 +1,7 @@
+confirm("\n\nClick three times Up-Arrow to jump at first!!");
 score = 0;
 cross = true;
-audiogo = new Audio('boing.mp3');
+// audiogo = new Audio('boing.mp3');
 audio = new Audio('main.mp4');
 
 setTimeout(() => {
